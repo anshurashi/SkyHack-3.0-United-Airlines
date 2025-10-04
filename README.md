@@ -28,7 +28,7 @@ This repository is organized to clearly separate data, code, outputs, and docume
 │   └── 📓 3_Post_Analysis_and_Insights.ipynb
 │
 ├── 📁 output/
-│   ├── 📄 test_HacksOnCrack.csv
+│   ├── 📄 test_Hacks_on_Crack.csv
 │   └── 🖼️ visualizations/
 │       ├── viz_delay_by_carrier_and_day.png
 │       └── ... (all other generated charts)
@@ -106,4 +106,4 @@ The final step translates the data-driven scores into strategic business recomme
     -   `2_Difficulty_Score_Development.ipynb`: To run the full pipeline and generate the final submission file.
     -   `3_Post_Analysis_and_Insights.ipynb`: To analyze the results and generate the final insights.
 
-The primary output, **`test_HacksOnCrack.csv`**, will be generated in the `/output` folder upon running the second notebook.
+The primary output, **`test_Hacks_on_Crack.csv`**, will be generated in the `/output` folder upon running the second notebook.
