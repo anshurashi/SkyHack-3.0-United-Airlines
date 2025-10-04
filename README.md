@@ -29,9 +29,10 @@ This repository is organized to clearly separate data, code, outputs, and docume
 │
 ├── 📁 output/
 │   ├── 📄 test_Hacks_on_Crack.csv
-│   └── 🖼️ visualizations/
-│       ├── viz_delay_by_carrier_and_day.png
-│       └── ... (all other generated charts)
+│
+|   
+|── 📁 Images/
+│   ├── 📄Visualization-charts and plots      
 │
 ├── 📁 report/
 │   └── 📄 Final_Presentation.pdf
